@@ -1,0 +1,12 @@
+# IEEE-CIS dataset
+ml/data/ieee-fraud-detection/
+ml/data/*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Trained ML artifacts
+ml/models/*.joblib
+ml/models/*.json
